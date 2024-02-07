@@ -94,7 +94,7 @@ st.title('Education 📖')
 txt('**Bachelors in Engineering** (Electronics and Communication), *Vishwakarma Government Engineering College*, Ahmedabad',
 '2020-2024')
 st.markdown('''
-- CGPA: `6.89`
+- CGPA: `7.00`
 
 ''')
 
