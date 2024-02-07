@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "start_date": { "year": "2017", "month": "6" },
+      "end_date": { "year": "2018", "month": "3" },
+      "text": {
+        "headline": "SSC From R.J Patel HighSchool",
+        "text": "<p>This was the time I started off with the DataCamp's Data Scientist Career Track. It had nearly 22 modules which I took 2 months to complete<p>"
+      }
+    },
+    {
+      "start_date": { "year": "2019", "month": "6" },
+      "end_date": { "year": "2020", "month": "3" },
+      "text": {
+        "headline": "HSC From R.J Patel HighSchool",
+        "text": "<p>This was the time I started off with the DataCamp's Data Scientist Career Track. It had nearly 22 modules which I took 2 months to complete<p>"
+      }
+    },
+    {
+      "start_date": { "year": "2020", "month": "8" },
+      "end_date": { "year": "2024", "month": "6" },
+      "text": {
+        "headline": "B.E From Vishwakarma Government Engineering College",
+        "text": "<p>This was the time I started off with the DataCamp's Data Scientist Career Track. It had nearly 22 modules which I took 2 months to complete<p>"
+      }
+    }
+  ]
+}
