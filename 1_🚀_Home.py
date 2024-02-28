@@ -1,21 +1,9 @@
 import streamlit as st
 import numpy as np
 import time
-from streamlit_lottie import st_lottie
-from streamlit_lottie import st_lottie_spinner
 import requests
 
 st.set_page_config(page_title='Home', page_icon='🚀' )
-
-
-def load_lottieurl(url: str):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-    return r.json()
-
-
-lottie_url_hello = "https://assets1.lottiefiles.com/packages/lf20_vfpu2rpp.json"
 
 
  
@@ -32,9 +20,7 @@ with st.container():
         )
 
     with col2:
-        st_lottie(
-            load_lottieurl("https://assets1.lottiefiles.com/packages/lf20_vfpu2rpp.json"),
-        )
+        st.image('./assets/img/profile-pic.png')
 
 
 
